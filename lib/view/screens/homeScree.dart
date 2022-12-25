@@ -36,7 +36,7 @@ class HomeScreen extends StatelessWidget {
         ),
       ]),
     );
-  }
+  } //ad
 
   // what's snapshot ==> instance of document in firebase......
 
